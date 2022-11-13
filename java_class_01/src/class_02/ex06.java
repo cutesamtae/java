@@ -1,4 +1,4 @@
-package vire;
+package class_02;
 
 public class ex06 {
 

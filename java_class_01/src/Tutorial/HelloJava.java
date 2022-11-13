@@ -1,4 +1,4 @@
-package folder;
+package Tutorial;
 
 public class HelloJava {
 

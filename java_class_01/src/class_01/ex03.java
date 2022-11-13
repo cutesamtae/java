@@ -1,4 +1,4 @@
-package f02;
+package class_01;
 
 import java.util.Scanner;
 

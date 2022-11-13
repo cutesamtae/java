@@ -1,4 +1,4 @@
-package random;
+package Tutorial_2;
 
 public class ex01 {
 
