@@ -3,8 +3,8 @@ package class_04;
 public class ex03 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		int[] intArray = new int[5];
+		
 	}
 
 }
