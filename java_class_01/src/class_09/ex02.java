@@ -1,4 +1,8 @@
-package class_08;
+package class_09;
+
+class Outer2 {
+	private
+}
 
 public class ex02 {
 
